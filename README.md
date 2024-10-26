@@ -1,2 +1,14 @@
 # Retail_Sales_Analysis-SQL
-This project is a comprehensive analysis of retail sales data, aimed at uncovering insights into sales patterns, customer demographics, and product performance. Using SQL and MySQL, the project focuses on data exploration, descriptive analysis, and data quality checks to answer key business questions.
+
+A SQL-based project utilizing a retail sales dataset, aimed at uncovering insights from sales transactions, customer demographics, product categories, and purchase patterns. This project was created in MySQL, analyzing key metrics to assist in data-driven decision-making for the retail sector.
+
+Dataset Source
+
+Dataset acquired from the YouTube channel “Zero Analyst.”
+
+Database and Table Structure
+
+Database Creation
+''' sq1
+CREATE DATABASE Retail_Sales_Analysis_Project;
+'''
