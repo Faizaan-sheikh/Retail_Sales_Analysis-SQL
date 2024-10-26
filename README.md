@@ -9,6 +9,8 @@ Dataset acquired from the YouTube channel “Zero Analyst.”
 Database and Table Structure
 
 Database Creation
-''' sq1
+''' sql
+
 CREATE DATABASE Retail_Sales_Analysis_Project;
+
 '''
